@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="basecamp.orange.twentyfour.dev" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="basecamp.orange.twentyfour.dev">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$/basecampbolt-buddy" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

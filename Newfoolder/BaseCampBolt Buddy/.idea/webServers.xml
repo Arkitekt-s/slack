@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b2ec127-a7b9-4c52-acf1-1b9388bd069a" name="basecamp.orange.twentyfour.dev">
+        <fileTransfer rootFolder="/home/admin/web/basecamp.internal.twentyfour.dev/public_html" accessType="SFTP" host="internal.twentyfour.dev.t.twentyfour.dev" port="22" sshConfigId="fbdd0806-10b2-4ab1-b8c1-270fe0094554" sshConfig="admin@internal.twentyfour.dev.t.twentyfour.dev:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" isUseRsync="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
